@@ -1,4 +1,4 @@
-## Hi there 👋
+## im just seeing stuff from google drive to see if it works :)
 
 <!--
 **thingy213/thingy213** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
